@@ -6,6 +6,10 @@ header {
     padding: 20px 30px;
 }
 
+.container{
+    display:flex;
+}
+
 header-first {
     flex: 1;
     text-wrap: wrap;
@@ -20,6 +24,9 @@ header-first {
 .first-div{
     display: flex;
 }
+.second-div{
+    display:flex;
+}
 
 button {
     background-color: #C1F7D5;
@@ -33,5 +40,19 @@ button {
     text-align: center;
     opacity: 1;
 }
+.three{
+    display: flex;
+}
+.four{
+    display:flex;
+}
 
-
+.five-first{
+    display: flex;
+}
+.five-second{
+    display:flex;
+}
+.six{
+    display:flex;
+}
