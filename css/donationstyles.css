@@ -1,0 +1,20 @@
+.content{
+    background-image: url("../assets/donation/annie-spratt-427340-unsplash.png");
+    display: flex;
+}
+
+.footer{
+    display: flex;
+}
+
+.name{
+    display: flex;
+}
+
+.pin{
+    display: flex;
+}
+
+.card-details{
+    display: flex;
+}
